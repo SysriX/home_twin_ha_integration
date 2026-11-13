@@ -1,0 +1,7 @@
+ble_status:
+  name: BLE-Status
+  description: >-
+    Liefert alle hinzugefügten BLE-Geräte (Tags, iPhones per IRK) mit aktuellem Raum,
+    nächstem Proxy, Signalstärke (dBm) und Sekunden seit dem letzten Empfang.
+    Dazu je Person mit zugeordneten Geräten: zuhause, Raum, Etage, x/y und welches Gerät den Ort bestimmt.
+    Nur mit response_variable nutzbar.

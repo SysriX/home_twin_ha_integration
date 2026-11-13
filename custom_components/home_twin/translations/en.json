@@ -1,0 +1,10 @@
+{
+  "title": "Home Twin",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Home Twin is already set up.",
+      "yaml_only": "Home Twin is configured in configuration.yaml (home_twin: db_url: …); the entry is created automatically.",
+      "already_configured": "Home Twin is already set up."
+    }
+  }
+}
