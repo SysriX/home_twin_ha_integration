@@ -5,6 +5,12 @@ Backend integration for a **digital twin of your home**: it stores the floor pla
 **BLE indoor tracking** – beacons, tags and phones (via IRK) are located per room using ESPHome Bluetooth proxies and can be
 assigned to Home Assistant persons.
 
+![Home Twin preview](docs/images/preview.png)
+*Floor plan stored by Home Twin, shown with the [Floor Plan Card](https://github.com/SysriX/floor_plan_ha_card), including BLE proxies and located tags (sample apartment, UI in German)*
+
+![Home Twin BLE persons](docs/images/ble-persons.png)
+*Assigning BLE devices to persons with the [Home Twin BLE Cards](https://github.com/SysriX/home_twin_ble_ha_card) (UI in German)*
+
 - Domain: `home_twin`
 - Version: 0.6.0
 - UI language of entity names and messages: German
